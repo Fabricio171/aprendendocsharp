@@ -10,6 +10,8 @@ namespace aprendendocsharp
     {
         static void Main(string[] args)
         {
+            Console.Write("ola");
+            Console.WriteLine("tudo");
         }
     }
 }
