@@ -1,0 +1,29 @@
+﻿comentario de uma linha // ou comentario de varias linhas /*
+
+escrever na tela as palavras Console.Write("ola mundo");
+
+para pular uma linha : console.writeline();
+
+Vai receber o valor e o usuario digitar 
+
+                                                     Console.Write("Entre seu nome: ");
+                                                                NOME = Console.ReadLine();
+                                                                Console.WriteLine("Ola, " + NOME);
+
+Exemplo para calculos  
+                                                                int A, B, R;
+
+                                                                    Console.Write("Entre o 1o. valor ");
+                                                                    A = int.Parse(Console.ReadLine());
+
+                                                                    Console.Write("Entre o 2o. valor ");
+                                                                    B = int.Parse(Console.ReadLine());
+
+                                                                    R = A + B;
+
+                                                                    Console.WriteLine();
+                                                                    Console.WriteLine("Resultado = " + R);
+            
+                                                                    Console.WriteLine();
+                                                                    Console.Write("Tecla <Enter> para continuar... ");
+                                                                    Console.ReadLine();
