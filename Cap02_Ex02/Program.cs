@@ -18,10 +18,10 @@ namespace Cap02_Ex02
             Console.Write("Entre o 2o. valor ");
             B = int.Parse(Console.ReadLine());
 
-            R = A + B;
+            R = A + B; //soma 
 
             Console.WriteLine();
-            Console.WriteLine("Resultado = " + R);
+            Console.WriteLine("Resultado = " + R); // mostra o valor da vareavel
             
             Console.WriteLine();
             Console.Write("Tecla <Enter> para continuar... ");
